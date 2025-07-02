@@ -1,3 +1,15 @@
 body{
     background-color: aquamarine;
 }
+nav{
+    background-color: #e61f1f;
+    color: rgb(17, 212, 99);
+    padding: 10px;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.servidor{
+    width:30%;
+}
